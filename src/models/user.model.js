@@ -1,5 +1,5 @@
 import mongoose, { Schema } from "mongoose";
-import jwt from "JsonWebTokenError";
+import jwt from "jsonwebtoken"
 import bcrypt from "bcrypt";
 
 
